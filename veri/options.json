@@ -6,12 +6,12 @@
       "min": 7000,
       "max": 15000
   },
-  "sendMessageContent": "Welcome! I want to advertise something to you.\n\nAdvert title:\n- advert message\n\nNeed more info?:\ntest@test.com",
+  "sendMessageContent": "#EmekCalarsanEmekCalarlar",
   "smsSetup": {
     "sendSMS": false,
-    "twilioSid": "<FILL_TWILIO_SID_HERE>",
-    "twilioAuthToken": "<FILL_TWILIO_AUTH_TOKEN>",
-    "sendTo": "<FILL_YOUR_TELEPHONE_NUMBER>",
+    "twilioSid": "<766659456452526100>",
+    "twilioAuthToken": "<ODI0OTkzNzQ3NzcwMjc3OTE4.YF3dTQ.HX31gM-nN8SwI9rbBTZRsMVMne8>",
+    "sendTo": "<altinsozz28>",
     "sendFrom": "<FILL_TWILIO_TELEPHONE_NUMBER>",
     "sendTextBody": "All accounts were banned. No more accounts left to spam. Go and add some."
   }
